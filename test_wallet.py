@@ -1,4 +1,4 @@
-#pytest test practice -example from semaphoreci.com
+#pytest test practice -example from https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
 #best practices/pointers for fixtures: use docstrings/ each test has its own new initialized class instance: Wallet() not one used in another test
 # $pytest --fixtures allows you to view all available fixtures
 
